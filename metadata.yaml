@@ -1,0 +1,41 @@
+_repo: Sibling_70155
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+creator:
+  author:
+    agent_name: Waltham, Leslie
+    gutenberg_agent_id: '55167'
+    url: http://www.gutenberg.org/2009/agents/55167
+description: ''
+gutenberg_issued: '2023-02-26'
+identifiers:
+  gutenberg: '70155'
+language: en
+pgterms:marc905: 20220526110238waltham
+pgterms:marc906: '1953'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bStandard Magazines, Inc., $c1953.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Telepathy -- Fiction'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Venus (Planet) -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Sibling
+url: http://www.gutenberg.org/ebooks/70155
